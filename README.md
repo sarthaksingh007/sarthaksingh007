@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sarthaksingh007/sarthaksingh007/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
 <h3 align="center">A passionate software engineer, MERN stack developer ans core part of the computer science field. </h3>
 
