@@ -1,48 +1,47 @@
-![logo](https://github.com/sarthaksingh007/sarthaksingh007/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
-<h3 align="center">A passionate software engineer, MERN stack developer ans core part of the computer science field. </h3>
+<h1 align="center">Hi, I'm Sarthak Singh 👋</h1>
 
-<img align="right" alt="coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcwb3hnNDgyejM0bnZ6bjhuMXloaXZpdmFoMndkeGd4cGJtYjFsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksingh007&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksingh007" /> </p>
-
-
-
-- 🔭 I’m currently working on **Talk about it**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m collaborated on [skillabhudaya website](https://deepaks-github.github.io/FORCE-IIITUna.com/)
-
-- 🤝 I’m looking for help with **Talk about it**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sarthaksingh007](https://github.com/sarthaksingh007)
-
-- 📝 I regularly write articles on [GFG website](GFG website)
-
-- 💬 Ask me about **MERN stack development.**
-
-- 📫 How to reach me **21328@iiitu.ac.in**
-
-- 📄 Know about my experiences [https://rb.gy/zi2ad](https://rb.gy/zi2ad)
-
-- ⚡ Fun fact **yeah I am totally funny. 😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarthak661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak661" height="30" width="40" /></a>
-<a href="https://fb.com/sarthaksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarthaksingh" height="30" width="40" /></a>
-<a href="https://instagram.com/s4rthak12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s4rthak12" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sarthak_2022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthak_2022" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarthak_2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak_2022/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sarthak_iiitu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarthak_iiitu" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineer — Backend &amp; AI Systems</b><br>
+  SDE 1 at <a href="https://nitrocommerce.ai/">Nitro Commerce</a> · Gurugram, India
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthaksingh007" alt="sarthaksingh007" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthaksingh007&show_icons=true&locale=en&layout=compact" alt="sarthaksingh007" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/sarthak661"><img src="https://img.shields.io/badge/LinkedIn-sarthak661-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://portfolio-eight-blush-37.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-000000?logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:sarthak.iiitu@gmail.com"><img src="https://img.shields.io/badge/Email-sarthak.iiitu%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/sarthak_2022/"><img src="https://img.shields.io/badge/LeetCode-sarthak__2022-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthaksingh007&show_icons=true&locale=en" alt="sarthaksingh007" /></p>
+I build backend systems and LLM applications: analytics pipelines on ClickHouse, high-throughput scrapers, and AI agents with LangGraph and CrewAI.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksingh007&" alt="sarthaksingh007" /></p>
+### 🛠️ What I do at Nitro Commerce
+- Led the OLAP warehouse migration from **Redshift to ClickHouse**, saving **₹10K/day** and bringing billion-row queries **under 1s**.
+- Built an **ads automation platform** (FastAPI, ARQ, PostgreSQL) that schedules **1,000+ campaigns** and saved **₹5 lakh+** in ad spend.
+- Run distributed **mobile and web scrapers** that handle **2M+ requests in 10 hours**.
+- Build **LangChain + LangGraph** chatbots used by brands.
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Well-Well**](https://github.com/sarthaksingh007/well-well) | Evidence-first copilot for oil-well operations. Answers plain-English questions with numbers from deterministic SQL tools and cites every claim. Hybrid search (BGE-large vectors + BM25) over 42K+ document chunks. Built for the FlytBase Asset Intelligence Copilot challenge. | Python, PostgreSQL, Gemini, Gemma, Docker |
+| [**Autonomous Social Media Agency**](https://github.com/sarthaksingh007/ai_agent_social) | CrewAI agents research, write, validate and publish social posts, with a React approval panel and CI/CD on GitHub Actions. | CrewAI, FastAPI, PostgreSQL, React, Docker |
+| [**Loan Management System**](https://github.com/sarthaksingh007/lsm) | Full-stack lending platform: borrowers apply for loans and executives manage them through their lifecycle, with role-based access. | Next.js, Express, TypeScript, MongoDB, JWT |
+
+### 🧰 Tech stack
+
+**Backend:** FastAPI · Node.js · Express · NestJS · REST · GraphQL · WebSockets · ARQ<br>
+**AI / LLM:** LangChain · LangGraph · CrewAI · RAG · pgvector · MCP · OpenAI API<br>
+**Data:** PostgreSQL · ClickHouse · Redshift · MongoDB · Redis · MySQL<br>
+**Cloud & DevOps:** AWS (S3, RDS, EC2) · Docker · Nginx · GitHub Actions · Linux<br>
+**Frontend:** React · Next.js · Redux · Zustand · Tailwind CSS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,nodejs,nestjs,postgres,mongodb,redis,mysql,aws,docker,nginx,githubactions,linux,react,nextjs,tailwind&perline=9" alt="Tech stack icons">
+</p>
+
+### 🌱 Currently learning
+AI agent tooling (MCP, Cloudflare Code Mode), RAG evaluation, and LLM observability.
+
+### 📫 Reach me
+Open to **Backend / SDE** and **AI Engineer** roles. Email me at **sarthak.iiitu@gmail.com** or message me on [LinkedIn](https://linkedin.com/in/sarthak661).
