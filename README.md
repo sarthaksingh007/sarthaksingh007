@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sarthak Singh 👋</h1>
 
 <p align="center">
-  <b>Software Engineer — Backend &amp; AI Systems</b><br>
+  <b>Backend &amp; AI Engineer</b><br>
   SDE 1 at <a href="https://nitrocommerce.ai/">Nitro Commerce</a> · Gurugram, India
 </p>
 
@@ -12,18 +12,19 @@
   <a href="https://leetcode.com/u/sarthak_2022/"><img src="https://img.shields.io/badge/LeetCode-sarthak__2022-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
-I build backend systems and LLM applications: analytics pipelines on ClickHouse, high-throughput scrapers, and AI agents with LangGraph and CrewAI.
+I build backend systems and LLM applications: analytics pipelines on ClickHouse, APIs on FastAPI and PostgreSQL, and AI agents with LangGraph and CrewAI.
 
 ### 🛠️ What I do at Nitro Commerce
-- Led the OLAP warehouse migration from **Redshift to ClickHouse**, saving **₹10K/day** and bringing billion-row queries **under 1s**.
-- Built an **ads automation platform** (FastAPI, ARQ, PostgreSQL) that schedules **1,000+ campaigns** and saved **₹5 lakh+** in ad spend.
-- Run distributed **mobile and web scrapers** that handle **2M+ requests in 10 hours**.
+- Migrated the OLAP warehouse from **Redshift to ClickHouse**, saving **₹10K/day** and bringing billion-row queries **under 1s**.
+- Built an **ads automation service** (FastAPI, ARQ, PostgreSQL) that schedules **1,000+ campaigns** and saved **₹50 lakh+** in ad spend.
+- Automated incremental **ETL jobs** moving **50M+ rows/day** from AWS RDS into ClickHouse.
 - Build **LangChain + LangGraph** chatbots used by brands.
 
 ### 🚀 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Nyaya Search**](https://nyaya.paediaconnect.com/) | AI legal research over 35,000+ Supreme Court judgments. Answers legal questions with paragraph-level citations, and every citation is checked in code before display. | Python, FastAPI, PostgreSQL + pgvector, Redis, Groq API, bge-m3, MCP, Docker |
 | [**Well-Well**](https://github.com/sarthaksingh007/well-well) | Evidence-first copilot for oil-well operations. Answers plain-English questions with numbers from deterministic SQL tools and cites every claim. Hybrid search (BGE-large vectors + BM25) over 42K+ document chunks. Built for the FlytBase Asset Intelligence Copilot challenge. | Python, PostgreSQL, Gemini, Gemma, Docker |
 | [**Autonomous Social Media Agency**](https://github.com/sarthaksingh007/ai_agent_social) | CrewAI agents research, write, validate and publish social posts, with a React approval panel and CI/CD on GitHub Actions. | CrewAI, FastAPI, PostgreSQL, React, Docker |
 | [**Loan Management System**](https://github.com/sarthaksingh007/lsm) | Full-stack lending platform: borrowers apply for loans and executives manage them through their lifecycle, with role-based access. | Next.js, Express, TypeScript, MongoDB, JWT |
